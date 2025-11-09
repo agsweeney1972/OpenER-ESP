@@ -1,3 +1,5 @@
+### Updated repo for the Waveshare ESP32-P4-Nano | https://github.com/AGSweeney/ESP32p4-EIP
+
 # ESP32 OpENer Ethernet/IP Adapter
 
 This project ports the [OpENer](https://github.com/EIPStackGroup/OpENer) Ethernet/IP stack to the **Olimex ESP32-Gateway Rev. F** and adds the glue code required to use the module as a Micro850-class adapter.  It builds on Espressif’s ESP-IDF (v5.5.1) toolchain and targets a wired Ethernet installation (no Wi-Fi).
